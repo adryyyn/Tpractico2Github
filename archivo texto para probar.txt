@@ -8,7 +8,7 @@ electrónico), por ejemplo GitHub Desktop.
 verifique que NO esté en el repositorio remoto. ¿Por qué no está?
 4. Ahora haga el push correspondiente y verifique que si esté
 5. Modifique el archivo desde la interfaz web de Github, verifique que dicho cambio NO
-está aplicado localmente ¿Por qué no está?
+está aplicado localmente ¿Por qué no está? HAY QUE ACTUALIZARLO AL REPOSIRORIO LOCALCON GIT PULL
 6. Ahora ejecute el comando correspondiente para traer los cambios y verifique que son
 visibles.
 7. Vuelva a modificar el archivo desde la interfaz web de Github, y antes de hacer el pull,
