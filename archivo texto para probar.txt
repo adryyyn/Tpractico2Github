@@ -22,4 +22,5 @@ arrancar subiendo los que realizó en la clase 1. Para no tener problemas, tambi
 recomendamos que en la raíz del proyecto tenga un archivo .gitignore (notar el punto “.” al
 principio del nombre del archivo) para evitar versionar cosas que no corresponden. Puede
 descargarlo/copiarlo de este link y se agrega al proyecto como cualquier otro archivo, solo que
+cumple la función vista en clase.
 
